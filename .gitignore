@@ -41,3 +41,5 @@ cmake-build-*
 *.pt
 
 *.swp
+
+.env
