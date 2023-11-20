@@ -5,4 +5,5 @@
 `conda activate all_keeper_admin`
 ## pip 설치
 `pip install -r requirements.txt`
-이 외, 추가되는 라이브러리들은 해당 파일에 꼭 업데이트 합니다.
+! 이 외, 추가되는 라이브러리들은 해당 파일에 꼭 업데이트 합니다.
+
